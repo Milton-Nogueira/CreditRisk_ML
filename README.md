@@ -10,8 +10,6 @@ The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/laotse/cred
 
 ![page2](https://user-images.githubusercontent.com/121902546/220214372-84a9c3aa-0cae-46f0-94e9-2ab4cff8bd6a.png)
 
-![Comp_Models_bi](https://user-images.githubusercontent.com/121902546/220216046-76f4504f-1b70-4cf7-a493-80c47fc25882.png)
-
 
 
 
@@ -23,6 +21,7 @@ The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/laotse/cred
 
 ![RF_Xgb_models](https://user-images.githubusercontent.com/121902546/220214925-67676a1d-67c2-4c06-90d6-41e279a43829.png)
 
+![bi_comp](https://user-images.githubusercontent.com/121902546/220217792-b3919d63-92f2-4189-82b1-5880641ac196.png)
 
 
 To check the dashboard click [here](https://app.powerbi.com/view?r=eyJrIjoiYmE1ZTQzNjUtZTE2OS00ODI4LTg2NjAtZjAwM2ZhYTI2OWNmIiwidCI6IjJjOTUwZWUxLWY4ZWYtNDY1MS05ZmRiLTIwZjRjNjk0ZTAzYyJ9).
