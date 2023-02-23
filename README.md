@@ -10,16 +10,11 @@ The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/laotse/cred
 
 ![page2](https://user-images.githubusercontent.com/121902546/220214372-84a9c3aa-0cae-46f0-94e9-2ab4cff8bd6a.png)
 
-
-
-
-
 # Machine Learning
 
-![models](https://user-images.githubusercontent.com/121902546/220214947-83405c92-e03d-474e-b171-14deba757755.png)
+![table](https://user-images.githubusercontent.com/121902546/221022436-aac16929-b8da-4301-aa8f-654f5448f9e8.png)
 
-
-![RF_Xgb_models](https://user-images.githubusercontent.com/121902546/220214925-67676a1d-67c2-4c06-90d6-41e279a43829.png)
+![cm_combined](https://user-images.githubusercontent.com/121902546/221022437-906c7154-2c0c-4385-b59d-4c505c8e595a.png)
 
 ![bi_comp](https://user-images.githubusercontent.com/121902546/220217792-b3919d63-92f2-4189-82b1-5880641ac196.png)
 
