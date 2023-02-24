@@ -78,6 +78,30 @@ In the table below we can check the metrics obtained for each of the models:
 
 ![table](https://user-images.githubusercontent.com/121902546/221022436-aac16929-b8da-4301-aa8f-654f5448f9e8.png)
 
+About the metrics:
+
+* Accuracy measures the overall performance of the model in correctly predicting the loan status (default or non-default). However, accuracy alone can be misleading.
+
+* Precision measures the proportion of correctly identified defaulters out of all the predicted defaulters. A high precision indicates that the model correctly identifies most of the defaulters, but it may miss some non-defaulters.
+
+* Recall measures the proportion of correctly identified defaulters out of all the actual defaulters. A high recall indicates that the model correctly identifies most of the defaulters, but it may mistakenly label some non-defaulters as defaulters.
+
+* F1 Score is the harmonic mean of precision and recall, which balances both metrics. A high F1 score indicates a good balance between precision and recall.
+
+In credit risk analysis, precision and recall are the most important metrics, as they reflect the cost and benefit of correctly identifying defaulters. However, it is also important to consider the accuracy. 
+
+It is up to the financial institution to align their business strategies with the machine learning department to properly choose a model with the best precision, recall, or even F1-score.
+
+In this analysis, evaluating the metrics:
+
+* GradientBoostingClassifier is the model with the best recall.
+
+* RandomForestClassifier is the model with the best precision.
+
+* XGBoost has the best is the model with the best F1-Score.
+
+All three models have a good accuracy rate above 92%.
+
 ![cm_combined](https://user-images.githubusercontent.com/121902546/221022437-906c7154-2c0c-4385-b59d-4c505c8e595a.png)
 
 
