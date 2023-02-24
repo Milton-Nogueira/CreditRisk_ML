@@ -2,6 +2,35 @@
 
 ## About the Dataset
 
+This dataset provides information about borrowers of a financial institution.
+
+Features:
+
+* person_age: Age.
+
+* person_income: Annual income.
+
+* person_home_ownership: Type of home ownership (Rent/Mortgage/Own/Other).
+
+* person_emp_length: Employment lenght in years.
+
+* loan_intent: Intent of the loan (Medical porpuses, Education, Ventures and others.)
+
+* loan_grade: Loan classification with regards of the risk, ranging from A to G, where G is the category presenting the most risk.
+
+* loan_amnt: Loan amount.
+
+* loan_int_rate: Interest rate.
+
+* loan_percent_income: DTI (Debt to Income) ratio - measure that compares an individual's total debt payments to their gross monthly income.
+
+* cb_person_default_on_file: If the borrower already default before.
+
+* cb_preson_cred_hist_length: Credit history length.
+
+* loan_status: Target variable - If the person defaulted or not.
+
+
 The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/laotse/credit-risk-dataset).
 
 # EDA
