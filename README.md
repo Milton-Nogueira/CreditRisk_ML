@@ -55,6 +55,6 @@ The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/laotse/cred
 
 
 
-To check the dashboard click [here](https://app.powerbi.com/view?r=eyJrIjoiYmZkODAzNzYtOTEzZi00OTI1LWIyYWItN2ZlZDljNWQ4YWRkIiwidCI6IjJjOTUwZWUxLWY4ZWYtNDY1MS05ZmRiLTIwZjRjNjk0ZTAzYyJ9).
+To check the dashboard click [here](https://app.powerbi.com/view?r=eyJrIjoiYzRlNzVkYzQtN2JlOC00MTJkLTk2YTYtNzUzNTY2NjJjN2E0IiwidCI6IjJjOTUwZWUxLWY4ZWYtNDY1MS05ZmRiLTIwZjRjNjk0ZTAzYyJ9).
 
 To check the commented code click [here](ML_Credit_Risk.ipynb).
