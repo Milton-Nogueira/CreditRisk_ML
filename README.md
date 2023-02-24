@@ -30,6 +30,8 @@ Features:
 
 * loan_status: Target variable - If the person defaulted or not.
 
+The features presented can help in analysis of credit risk, i.e, a potential loss that a financial institution may incur if a borrower fails to repay a loan or credit product. Using machine learning to analyse patterns and predict the likelihood of a borrower defaulting on a loan, lenders can minimize losses and help ensure long-term stability on their operations.
+
 
 The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/laotse/credit-risk-dataset).
 
