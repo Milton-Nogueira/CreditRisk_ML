@@ -6,9 +6,10 @@ The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/laotse/cred
 
 # EDA
 
-![page1](https://user-images.githubusercontent.com/121902546/220214370-49b5c11a-5083-43bb-8e68-11b7d4a11d0e.png)
+![dash1](https://user-images.githubusercontent.com/121902546/221193878-c184be1f-d13e-4db8-834f-2e7d2b477ca9.png)
 
-![page2](https://user-images.githubusercontent.com/121902546/220214372-84a9c3aa-0cae-46f0-94e9-2ab4cff8bd6a.png)
+
+![dash2](https://user-images.githubusercontent.com/121902546/221194152-cdf6d951-ca54-4bd9-a21c-e06b3ed94f71.png)
 
 # Machine Learning
 
