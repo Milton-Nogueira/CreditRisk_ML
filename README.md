@@ -68,6 +68,14 @@ Loan grades are a system to categorize and evaluate the risk associated with dif
 
 # Machine Learning
 
+In this analysis, we used stratified cross-validation, a technique for evaluating the performance of a machine learning model. It involves dividing a dataset into k folds or partitions of approximately equal size, where k is a specified number (in this case, 5), and ensuring that the same proportion of each class or target variable category is present in each fold.
+
+Data cleaning, outlier removal, and standardization were performed after the data splitting step in the cross-validation process to avoid data leakage.
+
+After preprocessing the data, we applied several machine learning models, ranging from a simple Logistic Regression model to ensemble models like XGBoost Classifier.
+
+In the table below we can check the metrics obtained for each of the models: 
+
 ![table](https://user-images.githubusercontent.com/121902546/221022436-aac16929-b8da-4301-aa8f-654f5448f9e8.png)
 
 ![cm_combined](https://user-images.githubusercontent.com/121902546/221022437-906c7154-2c0c-4385-b59d-4c505c8e595a.png)
