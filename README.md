@@ -104,8 +104,7 @@ All three models have a good accuracy rate above 92%.
 
 ![cm_combined](https://user-images.githubusercontent.com/121902546/221022437-906c7154-2c0c-4385-b59d-4c505c8e595a.png)
 
-
-
+The confusion matrices of the test samples above can help visualize the models' performance. We can see that the RandomForest model (highest precision) only failed to classify 25 non-defaulters correctly, while GradientBoosting (highest recall) only failed to classify 316 defaulters. XGBoost (highest F1) has the most balanced statistics.
 
 To check the dashboard click [here](https://app.powerbi.com/view?r=eyJrIjoiYzRlNzVkYzQtN2JlOC00MTJkLTk2YTYtNzUzNTY2NjJjN2E0IiwidCI6IjJjOTUwZWUxLWY4ZWYtNDY1MS05ZmRiLTIwZjRjNjk0ZTAzYyJ9).
 
