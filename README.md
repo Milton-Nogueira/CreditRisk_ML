@@ -37,7 +37,18 @@ The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/laotse/cred
 
 # EDA
 
+Miscrosoft Power BI was used to present the most important insights of the exploratory analysis.
+
+The two page report shows a profile of defaulters and non-defaulters using the dataset features. To further analyze those profiles it is possible to filter not only for defaulters and non-defaulters, but also for their loan grades. 
+
+Loan grades are a system to categorize and evaluate the risk associated with different loan applicants. They are based on an applicant's creditworthiness, income, employment status and other financial factors. In this dataset the grades vary from A to G, where A is the classification with lesser risk involved and G, the one with highest risk. 
+
+
+
 ![dash1](https://user-images.githubusercontent.com/121902546/221193878-c184be1f-d13e-4db8-834f-2e7d2b477ca9.png)
+
+
+* Checking the age profile, the range of 20-30 is where most people request loans from this institution, and it is also the range with the most defaulters. However, it's also the range that requests the lowest loan amount.
 
 * As one could expect when analyzing the employment length feature, people with less job stability tend to default on their loans.
 
