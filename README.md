@@ -39,6 +39,10 @@ The dataset can be found on [Kaggle](https://www.kaggle.com/datasets/laotse/cred
 
 ![dash1](https://user-images.githubusercontent.com/121902546/221193878-c184be1f-d13e-4db8-834f-2e7d2b477ca9.png)
 
+* As one could expect when analyzing the employment length feature, people with less job stability tend to default on their loans.
+
+* DTI is a financial metric used to evaluate a person's ability to manage their debts payments. Generally, a DTI ratio of 36% or less is considered good, while a ratio above 43% may indicate that a borrower is at higher risk of defaulting on their debts. Looking at this dataset, non-defaulters have an average DTI ratio of 14.88%, while defaulters have a ratio of 24.69%, which falls under the good range. This could indicate that this institution should restrict the range considered good.
+
 
 ![dash2](https://user-images.githubusercontent.com/121902546/221194152-cdf6d951-ca54-4bd9-a21c-e06b3ed94f71.png)
 
