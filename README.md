@@ -58,6 +58,14 @@ Loan grades are a system to categorize and evaluate the risk associated with dif
 
 ![dash2](https://user-images.githubusercontent.com/121902546/221194152-cdf6d951-ca54-4bd9-a21c-e06b3ed94f71.png)
 
+* The majority of loans in this institution are intended for educational or medical purposes, with the latter having the most defaulters. However the venture category is the one with the highest average loan amount. Also important to note that the only category where we have most non-defaulters is home improvement, but we should be careful with this since it has the lowest number of borrowers as well.  
+
+* We can see a strong relation between the type of home ownership and the amount of defaulters. People that own their homes, as one would expect, are the ones that have the lowest number of defaulters and also the lowest number of borrowers in general. We can also see this category presenting the lowest average annual income, although this may be attributed to the lack of statistics. Individuals who live in rented houses tend to default on their loans more frequently.
+
+* The pie chart shows the percentage of defaulters and non-defaulters in the financial insitution. Filtering with the loan grades, as the classifications increase to D and beyond, the number of defaulters begins to dominate over non-defaulters. D-grade has the highest number of defaulters. 
+
+* In the section 'How to Predict?' we can see pie charts showing two machine learning approaches to predict defaulters. One model presenting a higher recall rate, while the other, a higher precision rate. Further about those models in the following section.
+
 # Machine Learning
 
 ![table](https://user-images.githubusercontent.com/121902546/221022436-aac16929-b8da-4301-aa8f-654f5448f9e8.png)
