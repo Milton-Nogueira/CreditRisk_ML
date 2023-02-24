@@ -44,8 +44,7 @@ The two page report shows a profile of defaulters and non-defaulters using the d
 Loan grades are a system to categorize and evaluate the risk associated with different loan applicants. They are based on an applicant's creditworthiness, income, employment status and other financial factors. In this dataset the grades vary from A to G, where A is the classification with lesser risk involved and G, the one with highest risk. 
 
 
-
-![dash1](https://user-images.githubusercontent.com/121902546/221193878-c184be1f-d13e-4db8-834f-2e7d2b477ca9.png)
+![dash1](https://user-images.githubusercontent.com/121902546/221280547-717a55c0-3578-47fd-ad91-6fb6a45db93d.png)
 
 
 * It's important to note that the dataset doesn't specify if people classified as 'No' in the Historical Defaulters feature have paid all their debts or have never requested a loan before. Regardless, it is noticeable that a significant portion of those who have defaulted on loans have not repaid their debts. As for the other category, it's difficult to assume that every person registered has a record of more than one loan in the past. Without more information, we can't reliably draw insights from this feature.
