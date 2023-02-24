@@ -48,6 +48,8 @@ Loan grades are a system to categorize and evaluate the risk associated with dif
 ![dash1](https://user-images.githubusercontent.com/121902546/221193878-c184be1f-d13e-4db8-834f-2e7d2b477ca9.png)
 
 
+* It's important to note that the dataset doesn't specify if people classified as 'No' in the Historical Defaulters feature have paid all their debts or have never requested a loan before. Regardless, it is noticeable that a significant portion of those who have defaulted on loans have not repaid their debts. As for the other category, it's difficult to assume that every person registered has a record of more than one loan in the past. Without more information, we can't reliably draw insights from this feature.
+
 * Checking the age profile, the range of 20-30 is where most people request loans from this institution, and it is also the range with the most defaulters. However, it's also the range that requests the lowest loan amount.
 
 * As one could expect when analyzing the employment length feature, people with less job stability tend to default on their loans.
